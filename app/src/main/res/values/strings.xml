@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Fitness App</string>
+    <string name="headline">Welcome back!</string>
+    <string name="weekly_goal">Weekly Goal</string>
+    <string name="weekly_goal_value">4 / 5 workouts</string>
+    <string name="hydration">Hydration</string>
+    <string name="hydration_value">6 of 8 cups</string>
+    <string name="today_plan">Today&#39;s Plan</string>
+    <string name="workout_card_title">Strength &amp; Core</string>
+    <string name="workout_card_time">30 min · 180 cal</string>
+    <string name="workout_card_action">Start workout</string>
+    <string name="nutrition_title">Nutrition Snapshot</string>
+    <string name="nutrition_detail">1,520 kcal · 98g protein</string>
+    <string name="recovery_title">Recovery</string>
+    <string name="recovery_detail">Sleep 7h 45m</string>
+</resources>
